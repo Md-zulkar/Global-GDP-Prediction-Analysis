@@ -1,0 +1,7 @@
+pandas
+plotly
+seaborn
+matplotlib
+pandas-datareader
+prophet
+kaggle
